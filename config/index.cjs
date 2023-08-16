@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '浩',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'opEaE6hfJsw4hVJ16VdBws09t7xE',
+      id: 'opEaE6uv6Lq_fOlFLqIrxlLK05s0',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'i2XJAn1UiYVWC2Ps2SAUuimDD584dC2HD2z5UV8Z9UA',
+      useTemplateId: 'AIeNh001-W7hBoAqe7y0Z68E3YBhYBwv8SsDHIl4kfM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '08-02',
       festivals: [
